@@ -1,5 +1,4 @@
-<h1 align="center">Hello 👋, I'm Yahya Chanat</h1>
-<h3 align="center">A passionate Full-Stack developer</h3>
+<h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT, A HIGHLY SKILLED FULL-STACK DEVELOPER 💻</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdev42&show_icons=true&theme=dark&locale=en&layout=compact" alt="yashdev42" /></p>
 
