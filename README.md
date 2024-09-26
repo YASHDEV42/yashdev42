@@ -1,7 +1,7 @@
 <h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT, A HIGHLY SKILLED FULL-STACK DEVELOPER 💻</h1>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdev42&theme=dark" alt="yashdev42" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdev42&theme=dark" alt="yashdev42" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdev42&show_icons=true&theme=dark&locale=en" alt="yashdev42" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdev42&show_icons=true&theme=dark&locale=en&layout=compact" alt="yashdev42" /></p>
