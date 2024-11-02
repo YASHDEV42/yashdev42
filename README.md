@@ -15,7 +15,7 @@
 ✅ **Python, NodeJS, Express.js**: Backend architecture & server-side programming 🛠️  
 ✅ **MongoDB, Firebase, PostgreSQL, Prisma ORM**: Efficient data handling and database management 🗄️  
 ✅ **Stripe Integration & Webhooks**: Seamless payment processing 💳 and API integrations 🔗  
-✅ **User Authentication (Auth.js & Kinde)**: Secure and reliable user authentication systems 🔐
+✅ **User Authentication (Auth.js & Kinde)**: Secure and reliable user authentication systems 🔐  
 </p>
 
 ---
