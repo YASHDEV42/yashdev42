@@ -1,6 +1,15 @@
 <h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT, A HIGHLY SKILLED FULL-STACK DEVELOPER 💻</h1>
 
-
+<p>
+  𝗦𝘁𝗿𝗲𝗻𝗴𝘁𝗵𝘀 𝗮𝗻𝗱 𝗦𝗸𝗶𝗹𝗹𝘀 🥇:
+✅ JavaScript & TypeScript: Expert in writing clean, maintainable code 👨‍💻
+✅ ReactJS & NextJS: Building responsive, SEO-optimized, and dynamic interfaces ⚛️
+✅ HTML5, CSS3, Tailwind CSS, ShadCN, GSAP: Crafting visually appealing and interactive UI/UX 🎨
+✅ Python, NodeJS, Express.js: Backend architecture & server-side programming 🛠️
+✅ MongoDB, Firebase, PostgreSQL, Prisma ORM: Efficient data handling and database management 🗄️
+✅ Stripe Integration & Webhooks: Seamless payment processing 💳 and API integrations 🔗
+✅ User Authentication (Auth.js & Kinde): Secure and reliable user authentication systems 🔐
+</p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashdev42&theme=dark" alt="yashdev42" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashdev42&show_icons=true&theme=dark&locale=en" alt="yashdev42" /></p>
 
