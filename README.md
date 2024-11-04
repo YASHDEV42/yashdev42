@@ -1,8 +1,4 @@
-<h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT, A HIGHLY SKILLED FULL-STACK DEVELOPER 💻</h1>
-
-<p align="center">
-  🚀 Full-stack developer with a passion for building scalable, user-friendly applications. Driven by a love for learning and a commitment to delivering high-quality work.
-</p>
+<h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT, FULL-STACK DEVELOPER 💻</h1>
 
 ---
 
