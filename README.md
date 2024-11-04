@@ -1,4 +1,5 @@
-<h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT, FULL-STACK DEVELOPER 💻</h1>
+<h1 align="center">HELLO THERE 👋, I'M YAHYA CHANAT</h1>
+<h2 align="center">Full-Stack Developer</h2>
 
 ---
 
