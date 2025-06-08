@@ -1,8 +1,6 @@
 <h1 align="center">👋 HELLO THERE, I'M YAHYA CHANAT</h1>
 <h2 align="center">🚀 Full-Stack Developer</h2>
 
----
-
 ### 🥇 Strengths and Skills
 
 - **JavaScript & TypeScript**: Expert in writing clean, maintainable code 👨‍💻  
