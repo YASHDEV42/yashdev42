@@ -6,17 +6,14 @@
 - **JavaScript & TypeScript**: Expert in writing clean, maintainable code 👨‍💻  
 - **ReactJS & NextJS**: Building responsive, SEO-optimized, and dynamic interfaces ⚛️  
 - **HTML5, CSS3, Tailwind CSS, ShadCN, GSAP**: Crafting visually appealing and interactive UI/UX 🎨  
-- **Python, NodeJS, Express.js**: Backend architecture & server-side programming 🛠️  
-- **MongoDB, Firebase, PostgreSQL, Prisma ORM**: Efficient data handling and database management 🗄️  
+- **Python, NestJS, NodeJS, Express.js**: Architecting scalable backends with NestJS (MVC) and Express.js, implementing RESTful APIs, and secure authentication (JWT). 🛠️  
+- **MongoDB, Firebase, Supabase, PostgreSQL, Prisma ORM**: Efficient data handling and database management 🗄️  
 - **Stripe Integration & Webhooks**: Seamless payment processing 💳 and API integrations 🔗  
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashdev42&theme=dark" alt="GitHub Streak Stats" />
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yashdev42&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
 </p>
