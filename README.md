@@ -6,7 +6,7 @@
 - **JavaScript & TypeScript**: Expert in writing clean, maintainable code 👨‍💻  
 - **ReactJS & NextJS**: Building responsive, SEO-optimized, and dynamic interfaces ⚛️  
 - **HTML5, CSS3, Tailwind CSS, ShadCN, GSAP**: Crafting visually appealing and interactive UI/UX 🎨  
-- **Python, NestJS, NodeJS, Express.js**: Architecting scalable backends with NestJS (MVC) and Express.js, implementing RESTful APIs, and secure authentication (JWT). 🛠️  
+- **Python, NestJS, NodeJS, Express.js**: Architecting scalable backends, implementing APIs, and secure authentication. 🛠️  
 - **MongoDB, Firebase, Supabase, PostgreSQL, Prisma ORM**: Efficient data handling and database management 🗄️  
 - **Stripe Integration & Webhooks**: Seamless payment processing 💳 and API integrations 🔗  
 
