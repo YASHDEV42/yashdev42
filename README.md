@@ -11,8 +11,7 @@
 - **Stripe Integration & Webhooks**: Seamless payment processing 💳 and API integrations 🔗  
 
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yashdev42)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashdev42&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 ---
 
 ### 🛠️ Languages and Tools
