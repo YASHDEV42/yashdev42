@@ -11,15 +11,7 @@
 - **Stripe Integration & Webhooks**: Seamless payment processing 💳 and API integrations 🔗  
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashdev42&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yashdev42&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yashdev42)](https://git.io/streak-stats)
 
 ---
 
