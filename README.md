@@ -15,4 +15,4 @@
 - **Neovim**: Improving proficiency with Neovim through advanced plugins, custom key mappings, and mastering advanced motions to enhance coding speed and efficiency
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yashdev42&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YASHDEV42&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
