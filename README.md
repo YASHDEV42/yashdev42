@@ -12,5 +12,4 @@
 - **Database Optimization**: Studying advanced techniques to handle large-scale data efficiently
 - **C**: Learning C to gain a deep understanding of how high-performance systems are built from the ground up.
 - **Arch Linux**: Enjoy working with a highly customizable system, learning Linux internals, and optimizing development workflows
----
-[![GitHub Streak](https://streak-stats.demolab.com?user=YASHDEV42&theme=dark&short_numbers=true)](https://git.io/streak-stats)
+
