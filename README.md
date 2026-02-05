@@ -10,6 +10,6 @@
 ### Interests & Learning Focus
 - **Web Performance & Caching**: Deep focus on maximizing web performance through effective caching strategies
 - **Database Optimization**: Studying advanced techniques to handle large-scale data efficiently
-- **C**: Learning C to gain a deep understanding of how high-performance systems are built from the ground up.
+- **C & Rust**: to deeply understand how high-performance systems are built from the ground up (memory, pointers/ownership, concurrency, and low-level architecture)
 - **Arch Linux**: Enjoy working with a highly customizable system, learning Linux internals, and optimizing development workflows
-
+- **Neovim & Lua**: Customizing and extending Neovim using Lua to build a fast, efficient, and highly personalized development environment
