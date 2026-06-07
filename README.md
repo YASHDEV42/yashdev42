@@ -14,23 +14,7 @@
 - **Arch Linux**: Enjoy working with a highly customizable system, learning Linux internals, and optimizing development workflows
 - **Neovim & Lua**: Customizing and extending Neovim using Lua to build efficient and highly personalized development environment
 ---
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://www.boot.dev/u/yashdev42" target="_blank">
-        <img
-          src="https://api.boot.dev/v1/users/public/81de1a94-13b6-4a1c-910e-f735949f50f7/thumbnail"
-          width="220"
-          alt="Boot.dev Profile"
-        />
-      </a>
-    </td>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=YASHDEV42&theme=tokyonight&hide_border=true"
-        width="420"
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.boot.dev/u/yashdev42"><img src="https://api.boot.dev/v1/users/public/81de1a94-13b6-4a1c-910e-f735949f50f7/thumbnail" width="170" alt="Boot.dev Profile" /></a>
+  <img src="https://streak-stats.demolab.com?user=YASHDEV42&theme=tokyonight&hide_border=true" width="360" alt="GitHub Streak" />
+</div>
