@@ -13,3 +13,7 @@
 - **C & Rust**: to deeply understand how high-performance systems are built from the ground up
 - **Arch Linux**: Enjoy working with a highly customizable system, learning Linux internals, and optimizing development workflows
 - **Neovim & Lua**: Customizing and extending Neovim using Lua to build efficient and highly personalized development environment
+---
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/81de1a94-13b6-4a1c-910e-f735949f50f7/thumbnail" >
+</p>
