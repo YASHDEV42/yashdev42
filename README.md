@@ -1,6 +1,6 @@
 ### Strengths and Skills
 
-- **ReactJS & NextJS**: Building SEO-optimized, scalable, and dynamic interfaces
+- **ReactJS & NextJS**: Building SEO-optimized, scalable, and dynamic interfaces.
 - **Tailwind CSS, ShadCN, GSAP, and more**: Building responsive, clean, and interactive user interfaces
 - **NestJS, NodeJS, ExpressJS**: Architecting scalable backends and implementing APIs.
 - **MongoDB, PostgreSQL, Redis**: Efficient data handling, caching, and database management
